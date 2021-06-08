@@ -14,7 +14,7 @@
           "architecture": "stm32",
           "version": "2.0.0",
           "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/STM32-2.0.0.tar",
-          "archiveFileName": "STM32-2.0.0.tar.bz2",
+          "archiveFileName": "STM32-2.0.0.tar",
           "checksum": "SHA-256:74664AB353B86A9102B27C59B1E709BDE405CFCF2145D6A28750C04C1BB8C68B",
           "size": "25601024",
           "boards": [
