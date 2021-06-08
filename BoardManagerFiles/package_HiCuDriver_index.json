@@ -15,8 +15,8 @@
           "version": "2.0.0",
           "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/STM32base.tar",
           "archiveFileName": "STM32base.tar",
-          "checksum": "SHA-256:4616120408AD6DCB9A4A4F9151559F9AF7CD9EC4CEE01E36DE6A2BC691D2AC91",
-          "size": "23736832",
+          "checksum": "SHA-256:A50238E06A60D063D507D5A59E6EF78A25EF236CEE64FF2C35CF399AE9C04B21",
+          "size": "23714816",
           "boards": [
             {"name": "HiCuDriver_shi"},        
             {"name": "Generic STM32F1 series"}  
