@@ -29,7 +29,7 @@
             },
             {
               "packager": "Deerleg",
-              "name": "STM32Tools_for_HiCu",
+              "name": "FlashTools",
               "version": "2.0.0"
             },
             {
