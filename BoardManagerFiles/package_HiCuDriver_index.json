@@ -15,8 +15,8 @@
           "version": "2.0.0",
           "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/Deerleg.tar",
           "archiveFileName": "Deerleg.tar",
-          "checksum": "SHA-256:5EE6E759962E270F8D057993E85E887371B03428CF8A441CABA1CAFB50938C37",
-          "size": "23729664 ",
+          "checksum": "SHA-256:DF399FCF64F50B6F249F1C80C92FB2120F176AD5DC88A12D5DB0981B3D8AFCC1",
+          "size": "23729664",
           "boards": [
           {"name": "HiCu Driver Version shi"},       
           {"name": "Magic Light Amplifier"} 
