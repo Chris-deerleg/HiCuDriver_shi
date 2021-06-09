@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "HiCuDriver",
+      "name": "Deerleg",
       "websiteURL": "https://hackaday.io/project/168350-hicudriver",
       "maintainer": "Chris Deerleg",
       "email": "chris.deerleg@gmail.com",
