@@ -13,27 +13,27 @@
           "name": "HiCuDriver based on STM32",
           "architecture": "stm32",
           "version": "2.0.0",
-          "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/STM32base.tar",
-          "archiveFileName": "STM32base.tar",
-          "checksum": "SHA-256:A50238E06A60D063D507D5A59E6EF78A25EF236CEE64FF2C35CF399AE9C04B21",
-          "size": "23714816",
+          "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/Deerleg-tec.tar",
+          "archiveFileName": "Deerleg-tec.tar",
+          "checksum": "SHA-256:14D4C62EB44C4AF9FE77A693DD42753F4F000EA26318DB4A7635836F94950807",
+          "size": "23787520",
           "boards": [
-            {"name": "HiCuDriver_shi"},        
-            {"name": "Generic STM32F1 series"}  
+          {"name": "HiCu Driver Version shi"},       
+          {"name": "Magic Light Amp"} 
           ],
           "toolsDependencies": [
             {
-              "packager": "HiCuDriver",
+              "packager": "Deerleg-tec",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "9.3.1-1.3"
             },
             {
-              "packager": "HiCuDriver",
+              "packager": "Deerleg-tec",
               "name": "STM32Tools_for_HiCu",
               "version": "2.0.0"
             },
             {
-              "packager": "HiCuDriver",
+              "packager": "Deerleg-tec",
               "name": "CMSIS",
               "version": "5.7.0"
             }
