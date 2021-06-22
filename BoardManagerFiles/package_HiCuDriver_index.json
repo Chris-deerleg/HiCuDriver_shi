@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Deerleg Board",
+          "name": "Deerleg_Board",
           "architecture": "stm32",
           "version": "2.0.0",
           "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/Deerleg.tar",
@@ -22,17 +22,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Deerleg Board",
+              "packager": "Deerleg_Board",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "9.3.1-1.3"
             },
             {
-              "packager": "Deerleg Board",
+              "packager": "Deerleg_Board",
               "name": "FlashTools",
               "version": "2.0.0"
             },
             {
-              "packager": "Deerleg Board",
+              "packager": "Deerleg_Board",
               "name": "CMSIS",
               "version": "5.7.0"
             }
