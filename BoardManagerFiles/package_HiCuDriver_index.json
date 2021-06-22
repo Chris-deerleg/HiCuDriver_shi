@@ -15,8 +15,8 @@
           "version": "2.0.0",
           "url": "https://github.com/Chris-deerleg/HiCuDriver_shi/raw/main/Deerleg.tar",
           "archiveFileName": "Deerleg.tar",
-          "checksum": "SHA-256:BFF4DFF1CE075F89C8A280CA962C4DD1613C5B44F9285ADA0C429E658A032511",
-          "size": "23729664",
+          "checksum": "SHA-256:98449A019FB2B2124A99F6B722917100A45B71AC4EAA17C9EA12896EA5580F79",
+          "size": "23727616",
           "boards": [
           {"name": "HiCu Driver Version shi"}
           ],
